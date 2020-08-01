@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/wittyjudge/wittyjudge/master/assets/picture.png" alt="related picture" style="text-align: center; margin-bottom: 30px;" />
+## <img src="https://raw.githubusercontent.com/wittyjudge/wittyjudge/master/assets/picture.png" alt="related picture" style="text-align: center; margin-bottom: 30px;" />
 
 
 -   :mortar_board: The aim of life is **self-development**
