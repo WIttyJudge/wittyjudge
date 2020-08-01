@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-   :mortar_board: The aim of life is self-development
+-   :penguin: Using only **linux** on my private machines for over 2 years
+
 <p class="aligncenter" style="text-align: center; margin-top: 30px;">
   <!-- disable icons for now; see https://github.com/anuraghazra/github-readme-stats/issues/104 -->
   <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=algolia" />
