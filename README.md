@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 <p class="aligncenter" style="text-align: center; margin-top: 30px;">
   <!-- disable icons for now; see https://github.com/anuraghazra/github-readme-stats/issues/104 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittyjudge&layout=compact&theme=tokyonight&hide=Vim%20script" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=algolia" />
 </p>
