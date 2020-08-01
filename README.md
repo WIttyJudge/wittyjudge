@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Related picture](./assets/picture.png)
 
+<img src="https://raw.githubusercontent.com/wittyjudge/wittyjudge/master/assets/picture.png" alt="related picture" style="text-align: center; margin-bottom: 30px;" />
+
 
 -   :mortar_board: The aim of life is **self-development**
 -   :penguin: Using only **linux** for one years
