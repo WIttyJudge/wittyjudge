@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Related picture](../assets/picture.png)
+
+
 -   :mortar_board: The aim of life is **self-development**
 -   :penguin: Using only **linux** for one years
 
