@@ -26,4 +26,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=algolia" />
 </p>
 
+<!--
 ![Profile views](https://gpvc.arturio.dev/wittyjudge)
+-->
