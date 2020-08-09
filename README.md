@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <!-- disable icons for now; see https://github.com/anuraghazra/github-readme-stats/issues/104 -->
   <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=algolia" />
 </p>
+
+![Profile views](https://gpvc.arturio.dev/wittyjudge)
