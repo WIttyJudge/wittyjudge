@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
+[<img align="left" alt="Arch Linux" width="26px" src="https://www.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" />](https://www.google.com/search?&q=Arch+Linux)
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
-
-[<img align="left" alt="Arch Linux" width="26px" src="https://www.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" />](https://www.google.com/search?&q=Arch+Linux)
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/wittyjudge)
