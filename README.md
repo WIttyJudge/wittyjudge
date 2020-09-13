@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
 
+[<img align="left" alt="Arch Linux" width="26px" src="https://www.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" />](https://www.google.com/search?&q=Arch+Linux)
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/wittyjudge)
