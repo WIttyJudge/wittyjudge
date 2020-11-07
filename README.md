@@ -52,7 +52,7 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
  
 ```
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
