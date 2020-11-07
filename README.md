@@ -56,7 +56,7 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
 
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
-[![Ruby](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true)](https://www.ruby-lang.org/en/)
+[<img align="left" alt="Ruby" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true" />](https://www.ruby-lang.org/en/)
 
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
