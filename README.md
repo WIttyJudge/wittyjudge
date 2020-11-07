@@ -25,11 +25,38 @@ Here are some ideas to get you started:
 -   :mortar_board: The aim of life is **self-development**
 -   :penguin: Linux Enthusiast
 
+### Uses
+
+You can find my configuration file in [wittyjudge/dotfiles](https://github.com/WIttyJudge/dotfiles)
+
+```
+                   -`                    wittyjudge@desktop 
+                  .o+`                   ------------------ 
+                 `ooo/                   OS: Arch x86_64 
+                `+oooo:                  Shell: zsh
+               `+oooooo:                 Packages: 645 (pacman) 
+               -+oooooo+:                Kernel: Linux 5.9.1-arch1-1 
+             `/:-:++oooo+:               ---------------------
+            `/++++/+++++++:              Terminal: terminator 
+           `/++++++++++++++:             WM: i3 
+          `/+++ooooooooooooo/`           -----------------------
+          /ooosssso++osssssso+`          Memory: 2704MiB / 7898MiB
+        .oossssso-````/ossssss+`         CPU: Intel i3-4160 @ 3.6GHz
+       -osssssso.      :ssssssso.        GPU: NVIDIA GeForce GTX 750 Ti
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/
+ .`                                 `/   
+ 
+```
+
 ### Languages and Tools:
 
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
+[![Ruby](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_ruby.png?raw=true)](https://www.ruby-lang.org/en/)
 
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
