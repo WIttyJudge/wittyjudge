@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -   :mortar_board: The aim of life is **self-development**
 -   :penguin: Linux Enthusiast
 
-### Uses
+### :computer: Uses
 
 You can find my configuration file in [wittyjudge/dotfiles](https://github.com/WIttyJudge/dotfiles)
 
