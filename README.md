@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 -   :mortar_board: The aim of life is **self-development**
--   :penguin: Linux Enthusiast
+-   :penguin: Penguin Enthusiast
 
 ### :computer: Uses
 
