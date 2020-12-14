@@ -66,7 +66,7 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
 
-[<img align="left" alt="Neovim" width="26px" src="https://github.com/neovim/neovim.github.io/blob/master/logos/neovim-logo.png" />](https://www.google.com/search?&q=Neovim)
+[<img align="left" alt="Neovim" width="25px" src="https://github.com/neovim/neovim.github.io/blob/master/logos/neovim-mark-flat.svg" />](https://www.google.com/search?&q=Neovim)
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/wittyjudge)
