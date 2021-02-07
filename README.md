@@ -37,12 +37,12 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
                `+oooooo:                 Packages: 645 (pacman) 
                -+oooooo+:                Kernel: Linux 5.9.1-arch1-1 
              `/:-:++oooo+:               ---------------------
-            `/++++/+++++++:              Terminal: terminator 
+            `/++++/+++++++:              Terminal: urxvt 
            `/++++++++++++++:             WM: i3 
-          `/+++ooooooooooooo/`           -----------------------
-          /ooosssso++osssssso+`          Memory: 2704MiB / 7898MiB
-        .oossssso-````/ossssss+`         CPU: Intel i3-4160 @ 3.6GHz
-       -osssssso.      :ssssssso.        GPU: NVIDIA GeForce GTX 750 Ti
+          `/+++ooooooooooooo/`           
+          /ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       
    `/ossssso+/:-        -:/+osssso+-     
