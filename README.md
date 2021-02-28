@@ -38,7 +38,7 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
                -+oooooo+:                Kernel: Linux 5.9.1-arch1-1 
              `/:-:++oooo+:               ---------------------
             `/++++/+++++++:              Terminal: urxvt 
-           `/++++++++++++++:             WM: i3 
+           `/++++++++++++++:             WM: dwm
           `/+++ooooooooooooo/`           
           /ooosssso++osssssso+`          
         .oossssso-````/ossssss+`         
