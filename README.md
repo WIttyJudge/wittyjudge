@@ -60,7 +60,7 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
 
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
-[<img align="left" alt="Arch Linux" width="26px" src="https://www.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" />](https://www.google.com/search?&q=Arch+Linux)
+[<img align="left" alt="Arch Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg />](https://www.google.com/search?&q=Arch+Linux)
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 
