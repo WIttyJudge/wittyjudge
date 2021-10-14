@@ -30,26 +30,26 @@ Here are some ideas to get you started:
 You can find my configuration file in [wittyjudge/dotfiles](https://github.com/WIttyJudge/dotfiles)
 
 ```
-                   -`                    wittyjudge@desktop 
-                  .o+`                   ------------------ 
-                 `ooo/                   OS: Arch x86_64 
-                `+oooo:                  Shell: zsh
-               `+oooooo:                 Packages: 645 (pacman) 
-               -+oooooo+:                Kernel: Linux 5.9.1-arch1-1 
-             `/:-:++oooo+:               ---------------------
-            `/++++/+++++++:              Terminal: urxvt 
-           `/++++++++++++++:             WM: dwm
-          `/+++ooooooooooooo/`           
-          /ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/
- .`                                 `/   
- 
+             .-/+oossssoo+/-.               wittyjudge@desktop 
+        `:+ssssssssssssssssss+:`            ------------------ 
+      -+ssssssssssssssssssyyssss+-          OS: Ubuntu 18.04.6 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.        Shell: sh
+   /ssssssssssshdmmNNmmyNMMMMhssssss/       Packages: 3194 (pacman) 
+  +ssssssssshmydMMMMMMMNddddyssssssss+      Kernel: 5.4.0-87-generic 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/     ---------------------
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.    Terminal: urxvt 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+    WM: Mutter(Budgie)
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso  
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
+  +sssssssssdmydMMMMMMMMddddyssssssss+     
+   /ssssssssssshdmNNNNmyNMMMMhssssss/     
+    .ossssssssssssssssssdMMMNysssso. 
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:` 
+            .-/+oossssoo+/-. 
 ```
 
 ### :hammer_and_wrench: Languages and Tools:
