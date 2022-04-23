@@ -32,39 +32,21 @@ You can find my configuration file in [wittyjudge/dotfiles](https://github.com/W
 
 Sometimes I write articles on [my blog](https://wittyjudge.github.io).
 
-<!-- ``` -->
-<!--                    -`                    wittyjudge@desktop  -->
-<!--                   .o+`                   ------------------  -->
-<!--                  `ooo/                   OS: Arch x86_64  -->
-<!--                 `+oooo:                  Shell: zsh -->
-<!--                `+oooooo:                 Packages: 645 (pacman)  -->
-<!--                -+oooooo+:                Kernel: Linux 5.9.1-arch1-1  -->
-<!--              `/:-:++oooo+:               --------------------- -->
-<!--             `/++++/+++++++:              Terminal: urxvt  -->
-<!--            `/++++++++++++++:             WM: dwm -->
-<!--           `/+++ooooooooooooo/`            -->
-<!--           /ooosssso++osssssso+`           -->
-<!--         .oossssso-````/ossssss+`          -->
-<!--        -osssssso.      :ssssssso.         -->
-<!--       :osssssss/        osssso+++.        -->
-<!--      /ossssssss/        +ssssooo/-        -->
-<!--    `/ossssso+/:-        -:/+osssso+-      -->
-<!--   `+sso+:-`                 `.-/+oso:     -->
-<!--  `++:.                           `-/+/ -->
-<!--  .`                                 `/    -->
- 
-<!-- ``` -->
-
 ### :hammer_and_wrench: Tech & Tools Preference
 
 #### Languages:
 
 ![Ruby][shield_ruby] ![Go][shield_go] ![Bash][shield_bash]
 
+#### Databases:
+
+![Clickhouse][shield_clickhouse] ![PostgreSQL][shield_postgresql]
+
 <!-- #### Frontend -->
 <!-- ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass]  -->
 
 #### Operating System
+
 ![Linux][shield_linux] ![Arch][shield_arch_linux]
 
 #### Tools
@@ -74,6 +56,8 @@ Sometimes I write articles on [my blog](https://wittyjudge.github.io).
 <!-- Shield Links -->
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
 [shield_neovim]: https://img.shields.io/badge/Neovim-64A336?style=flat&logo=neovim&logoColor=ffffff
+[shield_clickhouse]: https://img.shields.io/badge/-ClickHouse-FFCB01?style=flat&logo=clickhouse&logoColor=ffffff
+[shield_postgres]: https://img.shields.io/badge/-PostgreSQL-274E84?style=flat&logo=postgresql&logoColor=ffffff
 [shield_bash]: https://img.shields.io/badge/Bash-283037?style=flat&logo=gnubash&logoColor=ffffff
 [shield_arch_linux]: https://img.shields.io/badge/-Arch-333333?style=flat&logo=archlinux&logoColor=1794D2
 [shield_c]: https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff
