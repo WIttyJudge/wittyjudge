@@ -40,7 +40,11 @@ Sometimes I write articles on [my blog](https://wittyjudge.github.io).
 
 #### Databases:
 
-![Clickhouse][shield_clickhouse] ![PostgreSQL][shield_postgresql]
+![ClickHouse][shield_clickhouse] ![PostgreSQL][shield_postgresql]
+
+<!-- #### APIs -->
+
+<!-- ![GraphQL][shield_graphql] -->
 
 <!-- #### Frontend -->
 <!-- ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass]  -->
@@ -57,6 +61,7 @@ Sometimes I write articles on [my blog](https://wittyjudge.github.io).
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
 [shield_neovim]: https://img.shields.io/badge/Neovim-64A336?style=flat&logo=neovim&logoColor=ffffff
 [shield_clickhouse]: https://img.shields.io/badge/-ClickHouse-FFCB01?style=flat&logo=clickhouse&logoColor=ffffff
+[shield_graphql]:https://img.shields.io/badge/-GraphQL-E534AB?style=flat&logo=graphql&logoColor=ffffff
 [shield_postgres]: https://img.shields.io/badge/-PostgreSQL-274E84?style=flat&logo=postgresql&logoColor=ffffff
 [shield_bash]: https://img.shields.io/badge/Bash-283037?style=flat&logo=gnubash&logoColor=ffffff
 [shield_arch_linux]: https://img.shields.io/badge/-Arch-333333?style=flat&logo=archlinux&logoColor=1794D2
