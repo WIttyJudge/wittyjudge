@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/wittyjudge/wittyjudge/master/assets/picture.png" alt="related picture" style="text-align: center; margin-bottom: 30px;" />
 -->
 
-<!-- <p class="aligncenter" style="text-align: center; margin-top: 30px;"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&count_private=true&show_icons=true&theme=algolia" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wittyjudge&show_icons=true&hide_border=true%22%20width=%22480px%22" /> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=wittyjudge&show_icons=true&hide_border=true" width="480px">
-<!-- </p> -->
-
 <!-- -   :mortar_board: The aim of life is **self-development** -->
 <!-- -   :penguin: Penguin Enthusiast -->
 
