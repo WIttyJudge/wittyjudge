@@ -30,7 +30,7 @@ Sometimes I write articles on [my blog](https://wittyjudge.github.io).
 
 #### Languages:
 
-![Ruby][shield_ruby] ![Go][shield_go] ![Bash][shield_bash]
+![Go][shield_go] ![Bash][shield_bash] ![Ruby][shield_ruby] 
 
 #### Databases:
 
